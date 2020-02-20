@@ -1,2 +1,2 @@
-# LieDetector
- Facial and action lie detector
+# Emotion-Idnetifier
+ Real time facial recognition and emotion identifier.
